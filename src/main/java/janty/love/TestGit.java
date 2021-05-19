@@ -15,5 +15,6 @@ public class TestGit {
         System.out.println("Hello GIT & IDEA");
         System.out.println("Master");
         System.out.println("Hot-fix");
+        System.out.println("SSH push");
     }
 }
