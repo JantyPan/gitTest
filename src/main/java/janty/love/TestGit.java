@@ -11,6 +11,7 @@ package janty.love;
 public class TestGit {
     public static void main(String[] args) {
         System.out.println("Hello Git & Idea");
-        System.out.println("Hello Git&IDEA ");
+        System.out.println("Hello Git & IDEA ");
+        System.out.println("Hello GIT & IDEA");
     }
 }
